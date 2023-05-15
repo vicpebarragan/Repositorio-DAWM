@@ -21,5 +21,5 @@ Este repositorio se utilizará para presentar los proyectos desarrollados e info
 
 - vicpebarragan@espol.edu.ec
 - victor.barragan@sasf.net
-- [WhatsApp](wa.me/593990241046)
+- [WhatsApp](https://wa.me/593990241046)
 - [LinkedIn](https://linkedin.com)
