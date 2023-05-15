@@ -3,6 +3,7 @@
 Este repositorio se utilizará para presentar los proyectos desarrollados e información de contacto del desarrollador.
 
 | Tecnologías | Nivel de conocimiento |
+| ----------- | ----------- |
 | Java | Intermedio |
 | Python | Intermedio |
 | C | Básico |
